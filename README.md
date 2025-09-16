@@ -1,4 +1,4 @@
-☁️ On a Cloud-Native Journey
+☁️ **On a Cloud-Native Journey**
 
 ## 📚 Currently Exploring
 - Kubernetes
