@@ -9,8 +9,11 @@
 - Ghostty
 - Aesthetic Themes (Catppuccin, Kanagawa Dragon, ...)
 
-## 🏅 Certifications
+## Problem Solving
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=fudoge)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaewoon67)](https://solved.ac/chaewoon67/)
 
+## 🏅 Certifications
 [![AWS Certified Solutions Architect - Associate](aws-certified-solutions-architect-associate-open-badge-v3.png)](https://www.credly.com/badges/a0cb166b-4cb5-4f8d-a40a-b2bf3b7e444d/public_url)
 - AWS Solutions Architect Associate (SAA-C03, 2025.09)
 - 리눅스마스터 2급 (2025.03)
