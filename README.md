@@ -3,6 +3,7 @@
 ## 📚 Currently Exploring
 - Kubernetes
 - Cilium
+- Argo Projects
 
 ## ❤️ What I Love
 - Neovim
