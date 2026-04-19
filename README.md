@@ -16,7 +16,7 @@
 ## 🏅 Certifications
 
 [![AWS Certified Solutions Architect - Associate](aws-certified-solutions-architect-associate-open-badge-v3.png)](https://www.credly.com/badges/a0cb166b-4cb5-4f8d-a40a-b2bf3b7e444d/public_url)
-[![Certified Kubernetes Administrator](cka-certified-kubernetes-administrator-open-badge-v3.png)](https://www.credly.com/badges/2ddaf836-1b25-4c29-becc-22b2cf78d4f7/public_url)
+[![Certified Kubernetes Administrator](cka-certified-kubernetes-administrator-2026-open-badge-v3.png)](https://www.credly.com/badges/2ddaf836-1b25-4c29-becc-22b2cf78d4f7/public_url)
 
 - Certified Kubernetes Administrator (2026.04)
 - AWS Solutions Architect Associate (SAA-C03, 2025.09)
