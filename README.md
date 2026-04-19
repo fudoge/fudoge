@@ -22,8 +22,8 @@
   <img src="cka-certified-kubernetes-administrator-2026-open-badge-v3.png" alt="Certified Kubernetes Administrator" height="150" />
 </a>
 
-- Certified Kubernetes Administrator (2026.04)
 - AWS Solutions Architect Associate (SAA-C03, 2025.09)
+- Certified Kubernetes Administrator (2026.04)
 - 리눅스마스터 2급 (2025.03)
 
 ## 🎓 Education & Training
