@@ -4,24 +4,22 @@
 
 - Kubernetes
 - Cilium
-- Argo Projects
 
 ## ❤️ What I Love
 
 - Nix
 - HomeLab setup
 - Ricing dots
-- Catppuccin
 
 ## 🏅 Certifications
 
-<a href="https://www.credly.com/badges/a0cb166b-4cb5-4f8d-a40a-b2bf3b7e444d/public_url">
+<a href="https://www.credly.com/badges/a0cb166b-4cb5-4f8d-a40a-b2bf3b7e444d/public_url" target="_blank">
   <img src="aws-certified-solutions-architect-associate-2025-open-badge-v3.png" alt="AWS Certified Solutions Architect - Associate" height="150" />
 </a>
-<a href="https://www.credly.com/badges/2ddaf836-1b25-4c29-becc-22b2cf78d4f7/public_url">
+<a href="https://www.credly.com/badges/2ddaf836-1b25-4c29-becc-22b2cf78d4f7/public_url" target="_blank">
   <img src="cka-certified-kubernetes-administrator-2026-open-badge-v3.png" alt="Certified Kubernetes Administrator" height="150" />
 </a>
-<a href="https://www.credly.com/badges/09742ed1-3318-46e7-b81f-5da98e28ce06/public_url">
+<a href="https://www.credly.com/badges/09742ed1-3318-46e7-b81f-5da98e28ce06/public_url" target="_blank">
   <img src="ckad-certified-kubernetes-application-developer-2026-open-badge-v3.png" alt="Certified Kubernetes Application Developer" height="150" />
 </a>
 
