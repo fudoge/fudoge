@@ -21,9 +21,13 @@
 <a href="https://www.credly.com/badges/2ddaf836-1b25-4c29-becc-22b2cf78d4f7/public_url">
   <img src="cka-certified-kubernetes-administrator-2026-open-badge-v3.png" alt="Certified Kubernetes Administrator" height="150" />
 </a>
+<a href="https://www.credly.com/badges/09742ed1-3318-46e7-b81f-5da98e28ce06/public_url">
+  <img src="ckad-certified-kubernetes-application-developer-2026-open-badge-v3.png" alt="Certified Kubernetes Application Developer" height="150" />
+</a>
 
 - AWS Solutions Architect Associate (SAA-C03, 2025.09)
 - Certified Kubernetes Administrator (2026.04)
+- Certified Kubernetes Application Developer (2026.06)
 - 리눅스마스터 2급 (2025.03)
 
 ## 🎓 Education & Training
