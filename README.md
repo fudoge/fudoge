@@ -29,6 +29,7 @@
 - AWS Solutions Architect Associate (SAA-C03, 2025.09)
 - Certified Kubernetes Administrator (2026.04)
 - Certified Kubernetes Application Developer (2026.06)
+- Certified Kubernetes Security Specialist (2026.07)
 - 리눅스마스터 2급 (2025.03)
 
 ## 🎓 Education & Training
