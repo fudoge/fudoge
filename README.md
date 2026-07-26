@@ -22,6 +22,9 @@
 <a href="https://www.credly.com/badges/09742ed1-3318-46e7-b81f-5da98e28ce06/public_url" target="_blank" rel="noopener noreferrer">
   <img src="ckad-certified-kubernetes-application-developer-2026-open-badge-v3.png" alt="Certified Kubernetes Application Developer" height="150" />
 </a>
+<a href="https://www.credly.com/badges/b4029b46-734a-4ff8-9c6c-4f5da2f65e6a/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="cks-certified-kubernetes-security-specialist-2026-open-badge-v3.png" alt="Certified Kubernetes Security Specialist" height="150" />
+</a>
 
 - AWS Solutions Architect Associate (SAA-C03, 2025.09)
 - Certified Kubernetes Administrator (2026.04)
